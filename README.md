@@ -1,7 +1,7 @@
 # lp5
 
-FOR HPC -OPENMP \n
-new > project > console application \n
+FOR HPC -OPENMP 
+new > project > console application 
 paste the code
 project > project options > compiler > code generation > language standard > gnu c++11
 tools > compiler options > tick > add the following commands.... > in empty field write -fopenmp
